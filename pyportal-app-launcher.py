@@ -23,7 +23,7 @@ cwd = ("/"+__file__).rsplit('/', 1)[0]
 pyportal = PyPortal(url='',
                     json_path='',
                     status_neopixel=board.NEOPIXEL,
-                    default_bg=cwd+"/button-john.bmp",
+                    default_bg=cwd+"/button-template-12.BMP",
                     text_font=cwd+"/fonts/Collegiate-50.bdf",
                     text_position=((100, 129), (155, 180)),
                     text_color=(0x000000, 0x000000),
