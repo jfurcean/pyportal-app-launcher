@@ -19,7 +19,7 @@ except OSError:
 # the current working directory (where this file is)
 cwd = ("/"+__file__).rsplit('/', 1)[0]
 
-#Initialize the Pyportal with the default_bg se to the BMP file with all your icons.
+#Initialize the Pyportal with the default_bg set to the BMP file with all your icons.
 pyportal = PyPortal(url='',
                     json_path='',
                     status_neopixel=board.NEOPIXEL,
