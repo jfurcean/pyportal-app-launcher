@@ -77,7 +77,7 @@ while True :
         # this can send multiple key presses as if you were pressing them all at the same time
         # I use a mac and have configured each one of my shortcuts to open an application 
         # using ALT+Control+Shift+Command+[some letter] 
-        # These shortcuts trigger an application to launch that was configured suing Automator 
+        # These shortcuts trigger an application to launch that was configured using Automator 
 
 
         # Column A
